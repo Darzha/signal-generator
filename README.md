@@ -3,7 +3,6 @@
 Arduino-based DDS function generator using the AD9833 chip, featuring a joystick-controlled menu system and LCD display.
 Active noise cancellation is not equally effective across all frequencies. This project was built to generate controlled test signals for exploring how different frequencies interact with ANC systems. One potential application is investigating warning tones or safety alerts that remain more perceptible to people wearing ANC headphones, helping improve awareness in situations such as pedestrian or workplace safety.
 
-Watch the project demo here: https://youtu.be/952sm_Iv7f0
 
 ## Features
 
