@@ -1,6 +1,6 @@
 # Signal Generator
 
-Arduino-based DDS function generator using the AD9833 chip. Joystick-controlled menu system with LCD display.
+Arduino-based DDS function generator using the AD9833 chip, featuring a joystick-controlled menu system and LCD display.
 
 ## Features
 
